@@ -1,11 +1,13 @@
 .container{
     display: flex;
     flex-direction: column;
+    border-radius: 50px;
     margin: auto;
     margin-top: 200px;
     width: 600px;
     background: #fff;
     padding-bottom: 30px;
+    background: #f3f4f9;
 }
 
 .header{
@@ -21,6 +23,7 @@
     color: #3c009d;
     font-size: 48px;
     font-weight: 700;
+    font-family: sans-serif;
 }
 
 .underline{
