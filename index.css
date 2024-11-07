@@ -13,3 +13,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body{
+  background: url('./Components/Assets/doc6.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+}
